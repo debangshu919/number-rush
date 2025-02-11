@@ -17,7 +17,13 @@ git clone https://github.com/debangshu919/number-rush.git
 cd number-rush
 ```
 
-### 2️⃣ **Run the Development Server**  
+### 2️⃣ **Install Dependencies**  
+Using **npm**:  
+```sh
+npm install
+```
+
+### 3️⃣ **Run the Development Server**  
 ```sh
 npm run dev
 ```

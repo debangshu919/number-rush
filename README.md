@@ -22,6 +22,10 @@ Using **npm**:
 ```sh
 npm install
 ```
+#### [OPTIONAL] if it shows some warnings, run the following command **only once** (suggested)
+```sh
+npm audit fix --force
+```
 
 ### 3️⃣ **Run the Development Server**  
 ```sh
